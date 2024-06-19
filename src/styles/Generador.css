@@ -13,6 +13,7 @@
   background-color: #e49c17;
   border-radius: 15px;
   margin-bottom: 100px;
+  height: fit-content;
 }
 
 .gentool-body img {

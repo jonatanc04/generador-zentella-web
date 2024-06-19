@@ -24,7 +24,7 @@ export default function GeneradorTool() {
             </div>
           </div>
           <h5 className="col-12 mt-5 d-flex flex-column align-items-center">Opciones</h5>
-          <div className="col-12 d-flex flex-row align-items-center justify-content-center">
+          <div className="col-12 mb-4 d-flex flex-row align-items-center justify-content-center">
             <div className="col-3">
               <label className="m-2">Activar buff de local</label>
               <input type="checkbox"></input>
