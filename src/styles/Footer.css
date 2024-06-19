@@ -1,7 +1,8 @@
 .footer-body {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   width: 100vw;
+  margin-top: 100px;
   box-shadow: 0px 0px 10px gold;
   background-color: #e49c17;
   height: 50px;
