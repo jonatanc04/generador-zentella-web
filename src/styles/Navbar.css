@@ -3,3 +3,7 @@
   background-color: #e49c17;
   height: 70px;
 }
+
+.navbar-body img {
+  width: 100px;
+}
